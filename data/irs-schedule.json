@@ -1,0 +1,27 @@
+{
+  "tax_year": 2024,
+  "updated": "2025-01-15",
+  "eitc_actc_hold_until": "2025-02-27",
+  "paper_return_weeks": 6,
+  "amended_return_weeks": 16,
+  "schedules": [
+    {"filing_date_range_start": "2025-01-27", "filing_date_range_end": "2025-02-01", "direct_deposit_expected": "2025-02-11", "paper_check_expected": "2025-02-18", "paper_return_dd": "2025-02-24", "notes": "First week of filing season"},
+    {"filing_date_range_start": "2025-02-02", "filing_date_range_end": "2025-02-08", "direct_deposit_expected": "2025-02-18", "paper_check_expected": "2025-02-25", "paper_return_dd": "2025-03-03", "notes": "Standard processing"},
+    {"filing_date_range_start": "2025-02-09", "filing_date_range_end": "2025-02-15", "direct_deposit_expected": "2025-02-25", "paper_check_expected": "2025-03-04", "paper_return_dd": "2025-03-10", "notes": "Standard processing"},
+    {"filing_date_range_start": "2025-02-16", "filing_date_range_end": "2025-02-22", "direct_deposit_expected": "2025-03-04", "paper_check_expected": "2025-03-11", "paper_return_dd": "2025-03-17", "notes": "Standard processing"},
+    {"filing_date_range_start": "2025-02-23", "filing_date_range_end": "2025-03-01", "direct_deposit_expected": "2025-03-11", "paper_check_expected": "2025-03-18", "paper_return_dd": "2025-03-24", "notes": "Standard processing"},
+    {"filing_date_range_start": "2025-03-02", "filing_date_range_end": "2025-03-08", "direct_deposit_expected": "2025-03-18", "paper_check_expected": "2025-03-25", "paper_return_dd": "2025-03-31", "notes": "Standard processing"},
+    {"filing_date_range_start": "2025-03-09", "filing_date_range_end": "2025-03-15", "direct_deposit_expected": "2025-03-25", "paper_check_expected": "2025-04-01", "paper_return_dd": "2025-04-07", "notes": "Standard processing"},
+    {"filing_date_range_start": "2025-03-16", "filing_date_range_end": "2025-03-22", "direct_deposit_expected": "2025-04-01", "paper_check_expected": "2025-04-08", "paper_return_dd": "2025-04-14", "notes": "Standard processing"},
+    {"filing_date_range_start": "2025-03-23", "filing_date_range_end": "2025-03-29", "direct_deposit_expected": "2025-04-08", "paper_check_expected": "2025-04-15", "paper_return_dd": "2025-04-21", "notes": "Standard processing"},
+    {"filing_date_range_start": "2025-03-30", "filing_date_range_end": "2025-04-05", "direct_deposit_expected": "2025-04-15", "paper_check_expected": "2025-04-22", "paper_return_dd": "2025-04-28", "notes": "Peak filing period"},
+    {"filing_date_range_start": "2025-04-06", "filing_date_range_end": "2025-04-15", "direct_deposit_expected": "2025-04-22", "paper_check_expected": "2025-04-29", "paper_return_dd": "2025-05-05", "notes": "Final days before deadline"},
+    {"filing_date_range_start": "2025-04-16", "filing_date_range_end": "2025-04-30", "direct_deposit_expected": "2025-05-06", "paper_check_expected": "2025-05-13", "paper_return_dd": "2025-05-19", "notes": "Extension filers"},
+    {"filing_date_range_start": "2025-05-01", "filing_date_range_end": "2025-05-31", "direct_deposit_expected": "2025-05-22", "paper_check_expected": "2025-05-29", "paper_return_dd": "2025-06-04", "notes": "Extension filers"},
+    {"filing_date_range_start": "2025-06-01", "filing_date_range_end": "2025-06-30", "direct_deposit_expected": "2025-06-22", "paper_check_expected": "2025-06-29", "paper_return_dd": "2025-07-07", "notes": "Extension filers"},
+    {"filing_date_range_start": "2025-07-01", "filing_date_range_end": "2025-07-31", "direct_deposit_expected": "2025-07-22", "paper_check_expected": "2025-07-29", "paper_return_dd": "2025-08-04", "notes": "Summer extension filers"},
+    {"filing_date_range_start": "2025-08-01", "filing_date_range_end": "2025-08-31", "direct_deposit_expected": "2025-08-22", "paper_check_expected": "2025-08-29", "paper_return_dd": "2025-09-04", "notes": "Late extension filers"},
+    {"filing_date_range_start": "2025-09-01", "filing_date_range_end": "2025-09-30", "direct_deposit_expected": "2025-09-22", "paper_check_expected": "2025-09-29", "paper_return_dd": "2025-10-06", "notes": "Late extension filers"},
+    {"filing_date_range_start": "2025-10-01", "filing_date_range_end": "2025-10-15", "direct_deposit_expected": "2025-10-22", "paper_check_expected": "2025-10-29", "paper_return_dd": "2025-11-04", "notes": "Final extension deadline"}
+  ]
+}

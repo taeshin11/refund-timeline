@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "when-will-i-get-my-refund",
+    "question": "When will I get my 2025 tax refund?",
+    "answer": "Most e-filed returns with direct deposit are processed within 21 days of IRS acceptance. If you filed a paper return, expect 6-8 weeks. Returns claiming EITC or ACTC cannot be issued before February 15 by law. You can check your exact status using the IRS Where's My Refund tool at irs.gov/refunds.",
+    "category": "timing"
+  },
+  {
+    "slug": "why-is-my-refund-delayed",
+    "question": "Why is my refund delayed?",
+    "answer": "Common reasons for refund delays include: errors on your return (math mistakes, wrong SSN), identity verification requirements, claiming EITC or ACTC credits (held until mid-February), filing a paper return (takes 6-8 weeks), your return was selected for review, you owe back taxes or child support, or bank issues with direct deposit. The IRS will send you a letter if they need more information.",
+    "category": "delays"
+  },
+  {
+    "slug": "what-does-still-being-processed-mean",
+    "question": "What does 'Your return is still being processed' mean?",
+    "answer": "This IRS message means your return is in the processing queue but hasn't been approved yet. This is normal, especially during peak season (February-April). It could mean your return needs additional review, you claimed certain credits, or the IRS has a high volume of returns. If this message persists beyond 21 days (e-file) or 6 weeks (paper), you can call the IRS at 800-829-1040.",
+    "category": "status"
+  },
+  {
+    "slug": "why-was-refund-lower-than-expected",
+    "question": "Why was my refund lower than expected?",
+    "answer": "Your refund may be lower than expected because: the IRS corrected errors in your return, you owe back taxes or a debt (the IRS can offset your refund), you owe state taxes, child support, or student loans, you claimed credits that were reduced, or your withholding was incorrect. Check your IRS notice for the specific reason.",
+    "category": "amount"
+  },
+  {
+    "slug": "how-to-check-refund-status",
+    "question": "How do I check my refund status?",
+    "answer": "Use the IRS Where's My Refund tool at irs.gov/refunds (updated once daily). You'll need: your Social Security Number, your filing status, and the exact refund amount from your return. E-filers can check 24 hours after acceptance. Paper filers can check after 4 weeks. The IRS2Go mobile app offers the same information.",
+    "category": "tracking"
+  },
+  {
+    "slug": "when-does-irs-start-accepting-returns",
+    "question": "When does the IRS start accepting returns in 2025?",
+    "answer": "The IRS began accepting 2024 tax year returns on January 27, 2025. This is the earliest date you can e-file or have your paper return postmarked for the 2025 filing season. Filing as early as possible generally means getting your refund sooner.",
+    "category": "timing"
+  },
+  {
+    "slug": "what-is-eitc-refund-hold",
+    "question": "What is the EITC/ACTC refund hold rule?",
+    "answer": "The PATH Act requires the IRS to hold refunds for returns claiming the Earned Income Tax Credit (EITC) or Additional Child Tax Credit (ACTC) until at least February 15. The IRS uses this time to verify eligibility. Most EITC/ACTC refunds are released by late February to early March 2025. This applies even if you filed in January.",
+    "category": "credits"
+  },
+  {
+    "slug": "can-i-get-refund-faster",
+    "question": "Can I get my refund faster?",
+    "answer": "Yes! The fastest way to get your refund: 1) E-file your return instead of mailing a paper return, 2) Choose direct deposit instead of a paper check, 3) File early in the season, 4) Make sure your return has no errors, 5) Ensure your bank account information is correct. E-file + direct deposit typically yields refunds within 21 days.",
+    "category": "tips"
+  },
+  {
+    "slug": "paper-return-refund-time",
+    "question": "How long does a paper return refund take?",
+    "answer": "Paper returns take significantly longer than e-filed returns. The IRS must manually enter and process paper returns, which typically takes 6-8 weeks. During peak filing season, this can extend to 8-10 weeks. Paper returns requesting paper checks take even longer. The IRS strongly recommends e-filing for faster processing.",
+    "category": "paper-filing"
+  },
+  {
+    "slug": "state-refund-timeline",
+    "question": "How long does a state tax refund take?",
+    "answer": "State refund timelines vary widely. Fast states like Colorado and Massachusetts process e-filed refunds in 1-2 weeks. Most states take 2-4 weeks for e-file. Slower states like California, New York, and South Carolina can take 3-6 weeks or longer. Paper state returns typically take 6-10 weeks. Check your state's revenue department website for current processing times.",
+    "category": "state"
+  },
+  {
+    "slug": "what-is-where-is-my-refund",
+    "question": "What is IRS Where's My Refund?",
+    "answer": "Where's My Refund (WMR) is the official IRS tool to track your federal tax refund status. Available at irs.gov/refunds and through the IRS2Go app. It shows three stages: Return Received, Refund Approved, and Refund Sent. It updates once per day, usually overnight. You need your SSN, filing status, and exact refund amount to use it.",
+    "category": "tracking"
+  },
+  {
+    "slug": "amended-return-timeline",
+    "question": "How long does an amended return refund take?",
+    "answer": "Amended returns (Form 1040-X) take much longer than original returns — typically 8-16 weeks. The IRS processes amended returns manually. You can check the status of an amended return at irs.gov/amendments or by calling 866-464-2050. You must wait 3 weeks after filing before checking the status.",
+    "category": "amended"
+  },
+  {
+    "slug": "direct-deposit-vs-check",
+    "question": "Is direct deposit faster than a paper check?",
+    "answer": "Yes, significantly. Direct deposit refunds arrive 1-2 weeks faster than paper checks. Once the IRS approves your refund, direct deposit typically clears in 1-3 business days. Paper checks must be printed, mailed, and can take 5-7 additional business days after approval. The IRS allows up to 3 direct deposit accounts for your refund.",
+    "category": "tips"
+  },
+  {
+    "slug": "irs-refund-schedule-2025",
+    "question": "What is the IRS refund schedule for 2025?",
+    "answer": "The 2025 IRS refund schedule follows general guidelines: E-file + Direct Deposit typically takes 21 days, E-file + Paper Check takes about 6 weeks, Paper return + Direct Deposit takes about 4 weeks, and Paper return + Paper Check takes 6-8 weeks. The IRS began accepting returns on January 27, 2025. The filing deadline is April 15, 2025.",
+    "category": "timing"
+  },
+  {
+    "slug": "refund-offset-debt",
+    "question": "Can the IRS keep my refund if I owe a debt?",
+    "answer": "Yes. The Treasury Offset Program can apply your refund toward: federal income taxes owed, state income taxes owed, child support obligations, federal student loan debt, and other federal debts. You will receive an offset notice explaining the amount taken and the creditor agency. The remaining refund (if any) will be sent to you.",
+    "category": "offsets"
+  },
+  {
+    "slug": "tax-refund-identity-theft",
+    "question": "What if my refund was stolen or I'm a victim of identity theft?",
+    "answer": "If you believe your refund was stolen or someone filed a return using your SSN, contact the IRS Identity Protection Specialized Unit at 800-908-4490. File IRS Form 14039 (Identity Theft Affidavit). Also place a fraud alert with the credit bureaus. The IRS will investigate and issue your legitimate refund, though it may take 120-180 days to resolve.",
+    "category": "identity-theft"
+  },
+  {
+    "slug": "missing-refund-check",
+    "question": "What should I do if my paper refund check is lost or missing?",
+    "answer": "If your paper check is lost, stolen, or destroyed, you can request a replacement through the IRS. Wait 28 days from the issue date before requesting a trace. You can request a refund trace by calling 800-829-1954 or by submitting Form 3911. The IRS will research your payment and either confirm delivery or issue a replacement check.",
+    "category": "missing-refund"
+  },
+  {
+    "slug": "filing-deadline-extension",
+    "question": "Does filing an extension affect my refund?",
+    "answer": "Filing an extension (Form 4868) gives you until October 15, 2025 to file, but it does NOT extend the time to pay taxes owed. If you expect a refund, filing an extension simply delays when you can receive it — the IRS can only issue your refund after you file. Filing earlier (before April 15) means getting your refund sooner.",
+    "category": "extension"
+  },
+  {
+    "slug": "child-tax-credit-refund",
+    "question": "When will I get my Child Tax Credit refund?",
+    "answer": "The regular Child Tax Credit (up to $2,000) is processed with your regular refund and follows standard processing timelines. The refundable Additional Child Tax Credit (ACTC) portion is subject to the PATH Act hold — refunds claiming ACTC cannot be issued before February 15. Most ACTC refunds are released by late February or early March.",
+    "category": "credits"
+  },
+  {
+    "slug": "tax-refund-status-bars-disappeared",
+    "question": "Why did the status bars on Where's My Refund disappear?",
+    "answer": "If the refund status bars on WMR disappear or reset to 'Return Received,' your return may be under additional review. This can happen due to identity verification needs, errors in your return, credits being verified (EITC/ACTC), or random compliance review. It does not necessarily mean something is wrong. Wait 21 days for e-file or 6 weeks for paper returns before calling the IRS.",
+    "category": "status"
+  }
+]

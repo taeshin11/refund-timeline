@@ -1,0 +1,25 @@
+{
+  "project": "refund-timeline",
+  "version": "1.0.0",
+  "features": [
+    { "id": "F01", "name": "IRS refund schedule table", "priority": "P0", "status": "COMPLETE", "milestone": "M3" },
+    { "id": "F02", "name": "State refund pages", "priority": "P0", "status": "COMPLETE", "milestone": "M4" },
+    { "id": "F03", "name": "Refund estimator calculator", "priority": "P0", "status": "COMPLETE", "milestone": "M5" },
+    { "id": "F04", "name": "FAQ pages", "priority": "P0", "status": "COMPLETE", "milestone": "M4" },
+    { "id": "F05", "name": "Filing status filter", "priority": "P1", "status": "COMPLETE", "milestone": "M5" },
+    { "id": "F06", "name": "EITC/ACTC notice section", "priority": "P0", "status": "COMPLETE", "milestone": "M3" },
+    { "id": "F07", "name": "Refund calendar view", "priority": "P1", "status": "COMPLETE", "milestone": "M3" },
+    { "id": "F08", "name": "IRS WMR link buttons", "priority": "P0", "status": "COMPLETE", "milestone": "M3" },
+    { "id": "F09", "name": "State refund check links", "priority": "P0", "status": "COMPLETE", "milestone": "M4" },
+    { "id": "F10", "name": "Visitor counter", "priority": "P0", "status": "COMPLETE", "milestone": "M3" },
+    { "id": "F11", "name": "i18n 8 languages", "priority": "P0", "status": "COMPLETE", "milestone": "M3" },
+    { "id": "F12", "name": "Google Sheets webhook", "priority": "P0", "status": "PLACEHOLDER", "milestone": "M3" },
+    { "id": "F13", "name": "Adsterra ads", "priority": "P0", "status": "PLACEHOLDER", "milestone": "M3" },
+    { "id": "F14", "name": "Schema.org JSON-LD", "priority": "P0", "status": "COMPLETE", "milestone": "M4" },
+    { "id": "F15", "name": "Sitemap + robots.txt", "priority": "P0", "status": "COMPLETE", "milestone": "M4" },
+    { "id": "F16", "name": "hreflang tags", "priority": "P0", "status": "COMPLETE", "milestone": "M4" },
+    { "id": "F17", "name": "research_history logs", "priority": "P0", "status": "COMPLETE", "milestone": "M1" },
+    { "id": "F18", "name": "Tax year selector", "priority": "P1", "status": "TODO", "milestone": "M5" },
+    { "id": "F19", "name": "Web push notifications", "priority": "P2", "status": "TODO", "milestone": "M6" }
+  ]
+}

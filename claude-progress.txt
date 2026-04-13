@@ -1,0 +1,9 @@
+# RefundTimeline — Claude Progress Log
+# Format: [TIMESTAMP] [MILESTONE] [STATUS] [NOTES]
+
+[2025-04-13] [M1] COMPLETE scaffold — Next.js 16 + React 19 + Tailwind v4 + next-intl v4
+[2025-04-13] [M2] COMPLETE data — IRS schedule, 51 state records, 20 FAQs, tax brackets
+[2025-04-13] [M3] COMPLETE homepage — schedule table, date picker, EITC notice, FAQ, i18n
+[2025-04-13] [M4] COMPLETE SEO pages — states, FAQs, federal guide, EITC, track, sitemap, schema
+[2025-04-13] [M5] COMPLETE calculator — refund estimator with tax brackets + filing status
+[2025-04-13] [M6] IN_PROGRESS deploy — npm build + vercel

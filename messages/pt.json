@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Início",
+    "states": "Estados",
+    "estimator": "Calculadora",
+    "federal": "Guia Federal",
+    "eitc": "Datas EITC",
+    "track": "Rastrear Reembolso",
+    "faq": "Perguntas Frequentes"
+  },
+  "meta": {
+    "homeTitle": "Calendário de Reembolsos IRS 2025 — Quando Receberei Meu Reembolso? | RefundTimeline",
+    "homeDesc": "Consulte o calendário de reembolsos de impostos IRS 2025. Descubra quando chegarão seus reembolsos federal e estadual.",
+    "statesTitle": "Tempos de Processamento de Reembolsos Estaduais 2025 | RefundTimeline",
+    "statesDesc": "Compare os tempos de processamento de reembolsos de impostos para todos os 50 estados.",
+    "estimatorTitle": "Calculadora de Reembolso de Impostos 2025 | RefundTimeline",
+    "estimatorDesc": "Estime o valor do seu reembolso federal de impostos 2025.",
+    "faqTitle": "FAQ sobre Reembolsos de Impostos 2025 | RefundTimeline",
+    "faqDesc": "Respostas para as perguntas mais comuns sobre reembolsos de impostos."
+  },
+  "hero": {
+    "title": "Quando Chegará Meu Reembolso de Impostos?",
+    "subtitle": "Calendário de Reembolsos IRS e Estaduais 2025",
+    "filingDatePrompt": "Digite sua data de declaração para ver a data estimada de reembolso:",
+    "checkStatus": "Verificar Status do Reembolso IRS",
+    "lastUpdated": "Última Atualização"
+  },
+  "schedule": {
+    "title": "Calendário de Reembolsos IRS 2025",
+    "subtitle": "Baseado nas diretrizes de processamento do IRS para declarações do ano fiscal 2024",
+    "filingDateRange": "Intervalo de Data de Declaração",
+    "directDeposit": "Eletrônico + Depósito Direto",
+    "paperCheck": "Eletrônico + Cheque",
+    "paperReturn": "Papel + Depósito Direto",
+    "yourRow": "Sua Linha",
+    "filingStart": "IRS começa a aceitar declarações",
+    "deadline": "Prazo de declaração"
+  },
+  "notice": {
+    "eitcTitle": "Aviso de Retenção de Reembolso EITC/ACTC",
+    "eitc": "Por lei (Lei PATH), o IRS não pode emitir reembolsos EITC ou ACTC antes de meados de fevereiro.",
+    "eitcRelease": "Data de liberação esperada: 27 de fevereiro de 2025 ou depois"
+  },
+  "cta": {
+    "checkIRS": "Verificar Status do Reembolso IRS",
+    "checkState": "Verificar Status do Reembolso de {state}",
+    "irsWMR": "Onde Está Meu Reembolso IRS",
+    "trackYours": "Rastrear Meu Reembolso"
+  },
+  "estimator": {
+    "title": "Calculadora de Reembolso de Impostos 2025",
+    "subtitle": "Estime o valor do seu reembolso federal",
+    "filingStatus": "Status de Declaração",
+    "income": "Renda Bruta ($)",
+    "withholding": "Impostos Federais Retidos ($)",
+    "deductions": "Deduções",
+    "standardDeduction": "Dedução Padrão",
+    "itemized": "Deduções Detalhadas",
+    "itemizedAmount": "Valor das Deduções Detalhadas ($)",
+    "estimate": "Estimar Meu Reembolso",
+    "result": "Reembolso Estimado",
+    "taxOwed": "Imposto Estimado Devido",
+    "taxableIncome": "Renda Tributável",
+    "oweTax": "Valor Devido",
+    "disclaimer": "Esta é apenas uma estimativa. O reembolso real pode variar.",
+    "filingStatusOptions": {
+      "single": "Solteiro/a",
+      "married_filing_jointly": "Casado/a Declarando Conjuntamente",
+      "married_filing_separately": "Casado/a Declarando Separadamente",
+      "head_of_household": "Chefe de Família"
+    }
+  },
+  "states": {
+    "title": "Calendário de Reembolsos Estaduais 2025",
+    "subtitle": "Tempos de processamento para todos os 50 estados",
+    "processingEfile": "Tempo de Processamento Eletrônico",
+    "processingPaper": "Tempo de Processamento em Papel",
+    "checkStatus": "Verificar Status do Reembolso",
+    "filingDeadline": "Prazo de Declaração 2025",
+    "noStateTax": "Sem Imposto Estadual de Renda",
+    "avgDays": "Dias Médios",
+    "ranked": "Estados Classificados por Velocidade de Reembolso",
+    "fastest": "Mais Rápido",
+    "slowest": "Mais Lento"
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subtitle": "Respostas para perguntas comuns sobre reembolsos de impostos"
+  },
+  "footer": {
+    "visitorToday": "Visitantes hoje",
+    "visitorTotal": "Total de visitantes",
+    "disclaimer": "Este site fornece estimativas baseadas em dados públicos do IRS. Os tempos reais de processamento podem variar.",
+    "lastUpdated": "Última atualização",
+    "rights": "Todos os direitos reservados",
+    "irsLink": "IRS.gov",
+    "irsDisclaimer": "Para informações oficiais, visite"
+  },
+  "tracking": {
+    "title": "Como Rastrear Seu Reembolso IRS",
+    "step1": "Apresente sua declaração federal de impostos eletronicamente",
+    "step2": "Aguarde 24 horas após a apresentação eletrônica (4 semanas para papel)",
+    "step3": "Visite a ferramenta Where's My Refund do IRS em irs.gov/refunds",
+    "step4": "Digite seu SSN, status de declaração e valor exato do reembolso",
+    "step5": "Verifique o status do seu reembolso — atualizado uma vez por dia"
+  },
+  "progress": {
+    "filed": "Declaração Apresentada",
+    "accepted": "Declaração Aceita",
+    "processed": "Declaração Processada",
+    "sent": "Reembolso Enviado",
+    "deposited": "Depositado"
+  },
+  "deadline": {
+    "title": "Prazo de Declaração de Impostos 2025",
+    "countdown": "dias até o prazo de 15 de abril",
+    "passed": "O prazo de declaração passou. Apresente uma extensão ou declare com atraso.",
+    "extension": "Prazo de extensão: 15 de outubro de 2025"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "states": "États",
+    "estimator": "Calculateur",
+    "federal": "Guide Fédéral",
+    "eitc": "Dates EITC",
+    "track": "Suivi Remboursement",
+    "faq": "FAQ"
+  },
+  "meta": {
+    "homeTitle": "Calendrier des Remboursements IRS 2025 — Quand recevrai-je mon remboursement? | RefundTimeline",
+    "homeDesc": "Consultez le calendrier des remboursements fiscaux IRS 2025. Découvrez quand arriveront vos remboursements fédéral et étatique.",
+    "statesTitle": "Délais de Traitement des Remboursements Étatiques 2025 | RefundTimeline",
+    "statesDesc": "Comparez les délais de traitement des remboursements fiscaux pour les 50 États.",
+    "estimatorTitle": "Calculateur de Remboursement Fiscal 2025 | RefundTimeline",
+    "estimatorDesc": "Estimez le montant de votre remboursement fédéral 2025.",
+    "faqTitle": "FAQ sur les Remboursements Fiscaux 2025 | RefundTimeline",
+    "faqDesc": "Réponses aux questions les plus courantes sur les remboursements fiscaux."
+  },
+  "hero": {
+    "title": "Quand Arrivera Mon Remboursement Fiscal?",
+    "subtitle": "Calendrier des Remboursements IRS et Étatiques 2025",
+    "filingDatePrompt": "Entrez votre date de dépôt pour voir la date de remboursement estimée :",
+    "checkStatus": "Vérifier l'État du Remboursement IRS",
+    "lastUpdated": "Dernière Mise à Jour"
+  },
+  "schedule": {
+    "title": "Calendrier des Remboursements IRS 2025",
+    "subtitle": "Basé sur les directives de traitement IRS pour les déclarations de l'année fiscale 2024",
+    "filingDateRange": "Plage de Date de Dépôt",
+    "directDeposit": "Électronique + Dépôt Direct",
+    "paperCheck": "Électronique + Chèque",
+    "paperReturn": "Papier + Dépôt Direct",
+    "yourRow": "Votre Ligne",
+    "filingStart": "L'IRS commence à accepter les déclarations",
+    "deadline": "Date limite de dépôt"
+  },
+  "notice": {
+    "eitcTitle": "Avis de Retenue de Remboursement EITC/ACTC",
+    "eitc": "Par la loi (Loi PATH), l'IRS ne peut pas émettre de remboursements EITC ou ACTC avant la mi-février.",
+    "eitcRelease": "Date de libération prévue : 27 février 2025 ou après"
+  },
+  "cta": {
+    "checkIRS": "Vérifier l'État du Remboursement IRS",
+    "checkState": "Vérifier l'État du Remboursement de {state}",
+    "irsWMR": "Où est Mon Remboursement IRS",
+    "trackYours": "Suivre Mon Remboursement"
+  },
+  "estimator": {
+    "title": "Calculateur de Remboursement Fiscal 2025",
+    "subtitle": "Estimez le montant de votre remboursement fédéral",
+    "filingStatus": "Situation Fiscale",
+    "income": "Revenu Brut ($)",
+    "withholding": "Impôts Fédéraux Retenus ($)",
+    "deductions": "Déductions",
+    "standardDeduction": "Déduction Standard",
+    "itemized": "Déductions Détaillées",
+    "itemizedAmount": "Montant des Déductions Détaillées ($)",
+    "estimate": "Estimer Mon Remboursement",
+    "result": "Remboursement Estimé",
+    "taxOwed": "Impôt Estimé Dû",
+    "taxableIncome": "Revenu Imposable",
+    "oweTax": "Montant Dû",
+    "disclaimer": "Ceci est une estimation seulement. Le remboursement réel peut varier.",
+    "filingStatusOptions": {
+      "single": "Célibataire",
+      "married_filing_jointly": "Marié(e) Déclarant Conjointement",
+      "married_filing_separately": "Marié(e) Déclarant Séparément",
+      "head_of_household": "Chef de Famille"
+    }
+  },
+  "states": {
+    "title": "Calendrier des Remboursements Étatiques 2025",
+    "subtitle": "Délais de traitement pour les 50 États",
+    "processingEfile": "Délai de Traitement Électronique",
+    "processingPaper": "Délai de Traitement Papier",
+    "checkStatus": "Vérifier l'État du Remboursement",
+    "filingDeadline": "Date Limite de Dépôt 2025",
+    "noStateTax": "Pas d'Impôt Étatique sur le Revenu",
+    "avgDays": "Jours Moyens",
+    "ranked": "États Classés par Vitesse de Remboursement",
+    "fastest": "Le Plus Rapide",
+    "slowest": "Le Plus Lent"
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "subtitle": "Réponses aux questions courantes sur les remboursements fiscaux"
+  },
+  "footer": {
+    "visitorToday": "Visiteurs aujourd'hui",
+    "visitorTotal": "Visiteurs totaux",
+    "disclaimer": "Ce site fournit des estimations basées sur les données IRS publiques. Les délais de traitement réels peuvent varier.",
+    "lastUpdated": "Dernière mise à jour",
+    "rights": "Tous droits réservés",
+    "irsLink": "IRS.gov",
+    "irsDisclaimer": "Pour les informations officielles, visitez"
+  },
+  "tracking": {
+    "title": "Comment Suivre Votre Remboursement IRS",
+    "step1": "Déposez votre déclaration fédérale d'impôts électroniquement",
+    "step2": "Attendez 24 heures après le dépôt électronique (4 semaines pour le papier)",
+    "step3": "Visitez l'outil Where's My Refund de l'IRS sur irs.gov/refunds",
+    "step4": "Entrez votre SSN, votre situation fiscale et le montant exact du remboursement",
+    "step5": "Vérifiez l'état de votre remboursement — mis à jour une fois par jour"
+  },
+  "progress": {
+    "filed": "Déclaration Déposée",
+    "accepted": "Déclaration Acceptée",
+    "processed": "Déclaration Traitée",
+    "sent": "Remboursement Envoyé",
+    "deposited": "Déposé"
+  },
+  "deadline": {
+    "title": "Date Limite de Dépôt des Impôts 2025",
+    "countdown": "jours jusqu'à la date limite du 15 avril",
+    "passed": "La date limite de dépôt est passée. Déposez une prolongation ou déposez en retard.",
+    "extension": "Date limite de prolongation : 15 octobre 2025"
+  }
+}

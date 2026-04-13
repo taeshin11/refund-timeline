@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Home",
+    "states": "States",
+    "estimator": "Estimator",
+    "federal": "Federal Guide",
+    "eitc": "EITC Dates",
+    "track": "Track Refund",
+    "faq": "FAQ"
+  },
+  "meta": {
+    "homeTitle": "IRS Tax Refund Schedule 2025 — When Will I Get My Refund? | RefundTimeline",
+    "homeDesc": "Check the 2025 IRS tax refund schedule. Find out when your federal and state refund will arrive. Refund date estimator for e-file, paper return, direct deposit, and check.",
+    "statesTitle": "State Tax Refund Processing Times 2025 | RefundTimeline",
+    "statesDesc": "Compare state tax refund processing times for all 50 states. Find your state's average refund timeline, filing deadline, and how to check your refund status.",
+    "estimatorTitle": "Tax Refund Estimator 2025 — How Much Will I Get? | RefundTimeline",
+    "estimatorDesc": "Estimate your 2025 federal tax refund amount. Enter your income, withholding, and filing status to calculate your expected refund.",
+    "faqTitle": "Tax Refund FAQ 2025 — Common Questions Answered | RefundTimeline",
+    "faqDesc": "Answers to the most common tax refund questions. When will I get my refund? Why is my refund delayed? How do I track my IRS refund?"
+  },
+  "hero": {
+    "title": "When Will My Tax Refund Arrive?",
+    "subtitle": "2025 IRS & State Tax Refund Schedule",
+    "filingDatePrompt": "Enter your filing date to see your estimated refund date:",
+    "checkStatus": "Check IRS Refund Status",
+    "lastUpdated": "Last Updated"
+  },
+  "schedule": {
+    "title": "IRS Refund Schedule 2025",
+    "subtitle": "Based on IRS processing guidelines for 2024 tax year returns",
+    "filingDateRange": "Filing Date Range",
+    "directDeposit": "E-file + Direct Deposit",
+    "paperCheck": "E-file + Paper Check",
+    "paperReturn": "Paper Return + DD",
+    "yourRow": "Your Row",
+    "filingStart": "IRS begins accepting returns",
+    "deadline": "Filing deadline"
+  },
+  "notice": {
+    "eitcTitle": "EITC/ACTC Refund Hold Notice",
+    "eitc": "The IRS cannot issue EITC or ACTC refunds before mid-February by law (PATH Act). If you claimed these credits, your refund will be held until at least February 15, 2025.",
+    "eitcRelease": "Expected release: February 27, 2025 or later"
+  },
+  "cta": {
+    "checkIRS": "Check IRS Refund Status",
+    "checkState": "Check {state} Refund Status",
+    "irsWMR": "IRS Where's My Refund",
+    "trackYours": "Track Your Refund"
+  },
+  "estimator": {
+    "title": "Tax Refund Estimator 2025",
+    "subtitle": "Estimate your federal tax refund amount",
+    "filingStatus": "Filing Status",
+    "income": "Gross Income ($)",
+    "withholding": "Federal Taxes Withheld ($)",
+    "deductions": "Deductions",
+    "standardDeduction": "Standard Deduction",
+    "itemized": "Itemized",
+    "itemizedAmount": "Itemized Deduction Amount ($)",
+    "estimate": "Estimate My Refund",
+    "result": "Estimated Refund",
+    "taxOwed": "Estimated Tax Owed",
+    "taxableIncome": "Taxable Income",
+    "oweTax": "Amount Owed",
+    "disclaimer": "This is an estimate only. Actual refund may vary based on credits, deductions, and IRS processing.",
+    "filingStatusOptions": {
+      "single": "Single",
+      "married_filing_jointly": "Married Filing Jointly",
+      "married_filing_separately": "Married Filing Separately",
+      "head_of_household": "Head of Household"
+    }
+  },
+  "states": {
+    "title": "State Tax Refund Schedule 2025",
+    "subtitle": "Processing times for all 50 states",
+    "processingEfile": "E-file Processing Time",
+    "processingPaper": "Paper Processing Time",
+    "checkStatus": "Check Refund Status",
+    "filingDeadline": "2025 Filing Deadline",
+    "noStateTax": "No State Income Tax",
+    "avgDays": "Avg. Days",
+    "ranked": "States Ranked by Refund Speed",
+    "fastest": "Fastest",
+    "slowest": "Slowest"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common tax refund questions answered"
+  },
+  "footer": {
+    "visitorToday": "Visitors today",
+    "visitorTotal": "Total visitors",
+    "disclaimer": "This site provides estimates based on publicly available IRS data. Actual processing times may vary. RefundTimeline is not affiliated with the IRS or any government agency.",
+    "lastUpdated": "Last updated",
+    "rights": "All rights reserved",
+    "irsLink": "IRS.gov",
+    "irsDisclaimer": "For official information, visit"
+  },
+  "tracking": {
+    "title": "How to Track Your IRS Refund",
+    "step1": "File your federal tax return electronically",
+    "step2": "Wait 24 hours after e-filing (4 weeks for paper)",
+    "step3": "Visit IRS Where's My Refund tool at irs.gov/refunds",
+    "step4": "Enter your SSN, filing status, and exact refund amount",
+    "step5": "Check your refund status — updated once daily"
+  },
+  "progress": {
+    "filed": "Return Filed",
+    "accepted": "Return Accepted",
+    "processed": "Return Processed",
+    "sent": "Refund Sent",
+    "deposited": "Deposited"
+  },
+  "deadline": {
+    "title": "2025 Tax Filing Deadline",
+    "countdown": "days until the April 15 deadline",
+    "passed": "The filing deadline has passed. File for an extension or file late.",
+    "extension": "Extension deadline: October 15, 2025"
+  }
+}

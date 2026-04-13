@@ -1,0 +1,13 @@
+{
+  "federal": {
+    "method": [
+      {"type": "E-file + Direct Deposit", "avgDays": 21, "note": "Most refunds within 21 days"},
+      {"type": "E-file + Check", "avgDays": 42, "note": "Takes 6 weeks after processing"},
+      {"type": "Paper + Direct Deposit", "avgDays": 28, "note": "Paper slows initial processing"},
+      {"type": "Paper + Check", "avgDays": 56, "note": "Slowest — up to 8 weeks"}
+    ],
+    "filingStart": "2025-01-27",
+    "deadline": "2025-04-15",
+    "extensionDeadline": "2025-10-15"
+  }
+}

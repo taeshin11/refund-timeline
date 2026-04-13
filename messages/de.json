@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "states": "Bundesstaaten",
+    "estimator": "Rechner",
+    "federal": "Bundesguide",
+    "eitc": "EITC-Termine",
+    "track": "Erstattung verfolgen",
+    "faq": "FAQ"
+  },
+  "meta": {
+    "homeTitle": "IRS Steuererstattungsplan 2025 — Wann erhalte ich meine Erstattung? | RefundTimeline",
+    "homeDesc": "Überprüfen Sie den IRS-Steuererstattungsplan 2025. Erfahren Sie, wann Ihre Bundes- und Staatserstattung eintrifft.",
+    "statesTitle": "Bearbeitungszeiten für staatliche Steuererstattungen 2025 | RefundTimeline",
+    "statesDesc": "Vergleichen Sie die Bearbeitungszeiten für Steuererstattungen in allen 50 Bundesstaaten.",
+    "estimatorTitle": "Steuererstattungsrechner 2025 | RefundTimeline",
+    "estimatorDesc": "Schätzen Sie den Betrag Ihrer bundesstaatlichen Steuererstattung 2025.",
+    "faqTitle": "FAQ zu Steuererstattungen 2025 | RefundTimeline",
+    "faqDesc": "Antworten auf die häufigsten Fragen zu Steuererstattungen."
+  },
+  "hero": {
+    "title": "Wann Kommt Meine Steuererstattung?",
+    "subtitle": "IRS- und Staatssteuererstattungsplan 2025",
+    "filingDatePrompt": "Geben Sie Ihr Einreichungsdatum ein, um das geschätzte Erstattungsdatum zu sehen:",
+    "checkStatus": "IRS-Erstattungsstatus prüfen",
+    "lastUpdated": "Zuletzt aktualisiert"
+  },
+  "schedule": {
+    "title": "IRS-Erstattungsplan 2025",
+    "subtitle": "Basierend auf IRS-Verarbeitungsrichtlinien für Steuererklärungen des Steuerjahres 2024",
+    "filingDateRange": "Einreichungsdatumsbereich",
+    "directDeposit": "E-File + Direkteinzahlung",
+    "paperCheck": "E-File + Scheck",
+    "paperReturn": "Papier + Direkteinzahlung",
+    "yourRow": "Ihre Zeile",
+    "filingStart": "IRS beginnt mit der Annahme von Erklärungen",
+    "deadline": "Einreichungsfrist"
+  },
+  "notice": {
+    "eitcTitle": "EITC/ACTC-Erstattungseinbehaltungshinweis",
+    "eitc": "Nach dem Gesetz (PATH Act) kann der IRS EITC- oder ACTC-Erstattungen nicht vor Mitte Februar ausgeben.",
+    "eitcRelease": "Erwartete Freigabe: 27. Februar 2025 oder später"
+  },
+  "cta": {
+    "checkIRS": "IRS-Erstattungsstatus prüfen",
+    "checkState": "{state}-Erstattungsstatus prüfen",
+    "irsWMR": "IRS Wo ist meine Erstattung",
+    "trackYours": "Meine Erstattung verfolgen"
+  },
+  "estimator": {
+    "title": "Steuererstattungsrechner 2025",
+    "subtitle": "Schätzen Sie den Betrag Ihrer Bundeserstattung",
+    "filingStatus": "Steuerstatus",
+    "income": "Bruttoeinkommen ($)",
+    "withholding": "Einbehaltene Bundessteuern ($)",
+    "deductions": "Abzüge",
+    "standardDeduction": "Standardabzug",
+    "itemized": "Einzelabzüge",
+    "itemizedAmount": "Betrag der Einzelabzüge ($)",
+    "estimate": "Meine Erstattung schätzen",
+    "result": "Geschätzte Erstattung",
+    "taxOwed": "Geschätzte Steuerschuld",
+    "taxableIncome": "Zu versteuerndes Einkommen",
+    "oweTax": "Geschuldeter Betrag",
+    "disclaimer": "Dies ist nur eine Schätzung. Die tatsächliche Erstattung kann variieren.",
+    "filingStatusOptions": {
+      "single": "Ledig",
+      "married_filing_jointly": "Verheiratet, gemeinsame Einreichung",
+      "married_filing_separately": "Verheiratet, getrennte Einreichung",
+      "head_of_household": "Haushaltsvorstand"
+    }
+  },
+  "states": {
+    "title": "Staatssteuererstattungsplan 2025",
+    "subtitle": "Bearbeitungszeiten für alle 50 Bundesstaaten",
+    "processingEfile": "E-File-Bearbeitungszeit",
+    "processingPaper": "Papier-Bearbeitungszeit",
+    "checkStatus": "Erstattungsstatus prüfen",
+    "filingDeadline": "Einreichungsfrist 2025",
+    "noStateTax": "Keine staatliche Einkommenssteuer",
+    "avgDays": "Durchschn. Tage",
+    "ranked": "Bundesstaaten nach Erstattungsgeschwindigkeit",
+    "fastest": "Schnellste",
+    "slowest": "Langsamste"
+  },
+  "faq": {
+    "title": "Häufig Gestellte Fragen",
+    "subtitle": "Antworten auf häufige Fragen zu Steuererstattungen"
+  },
+  "footer": {
+    "visitorToday": "Besucher heute",
+    "visitorTotal": "Gesamtbesucher",
+    "disclaimer": "Diese Website bietet Schätzungen basierend auf öffentlichen IRS-Daten. Tatsächliche Bearbeitungszeiten können variieren.",
+    "lastUpdated": "Zuletzt aktualisiert",
+    "rights": "Alle Rechte vorbehalten",
+    "irsLink": "IRS.gov",
+    "irsDisclaimer": "Für offizielle Informationen besuchen Sie"
+  },
+  "tracking": {
+    "title": "So Verfolgen Sie Ihre IRS-Erstattung",
+    "step1": "Reichen Sie Ihre Bundessteuererklärung elektronisch ein",
+    "step2": "Warten Sie 24 Stunden nach der elektronischen Einreichung (4 Wochen für Papier)",
+    "step3": "Besuchen Sie das IRS-Tool Where's My Refund unter irs.gov/refunds",
+    "step4": "Geben Sie Ihre SSN, Ihren Steuerstatus und den genauen Erstattungsbetrag ein",
+    "step5": "Überprüfen Sie Ihren Erstattungsstatus — wird einmal täglich aktualisiert"
+  },
+  "progress": {
+    "filed": "Erklärung eingereicht",
+    "accepted": "Erklärung akzeptiert",
+    "processed": "Erklärung verarbeitet",
+    "sent": "Erstattung gesendet",
+    "deposited": "Eingezahlt"
+  },
+  "deadline": {
+    "title": "Steuereinreichungsfrist 2025",
+    "countdown": "Tage bis zur Frist am 15. April",
+    "passed": "Die Einreichungsfrist ist abgelaufen. Beantragen Sie eine Verlängerung oder reichen Sie verspätet ein.",
+    "extension": "Verlängerungsfrist: 15. Oktober 2025"
+  }
+}

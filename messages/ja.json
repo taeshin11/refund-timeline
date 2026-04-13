@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "states": "州別還付",
+    "estimator": "還付計算機",
+    "federal": "連邦ガイド",
+    "eitc": "EITC日程",
+    "track": "還付追跡",
+    "faq": "よくある質問"
+  },
+  "meta": {
+    "homeTitle": "2025年IRS税金還付スケジュール — 還付はいつ届く? | RefundTimeline",
+    "homeDesc": "2025年のIRS税金還付スケジュールを確認。連邦・州の還付予定日を調べましょう。",
+    "statesTitle": "2025年州別税金還付処理時間 | RefundTimeline",
+    "statesDesc": "全50州の税金還付処理時間を比較。",
+    "estimatorTitle": "2025年税金還付計算機 | RefundTimeline",
+    "estimatorDesc": "2025年の連邦税還付額を見積もります。",
+    "faqTitle": "税金還付FAQ 2025 | RefundTimeline",
+    "faqDesc": "最も一般的な税金還付の質問への回答。"
+  },
+  "hero": {
+    "title": "税金還付はいつ届きますか？",
+    "subtitle": "2025年IRS・州税還付スケジュール",
+    "filingDatePrompt": "申告日を入力して還付予定日を確認してください：",
+    "checkStatus": "IRS還付状況を確認",
+    "lastUpdated": "最終更新"
+  },
+  "schedule": {
+    "title": "2025年IRS還付スケジュール",
+    "subtitle": "2024年税年度申告のIRS処理ガイドライン基準",
+    "filingDateRange": "申告日範囲",
+    "directDeposit": "電子申告＋直接入金",
+    "paperCheck": "電子申告＋小切手",
+    "paperReturn": "紙申告＋直接入金",
+    "yourRow": "あなたの行",
+    "filingStart": "IRS申告受付開始",
+    "deadline": "申告期限"
+  },
+  "notice": {
+    "eitcTitle": "EITC/ACTC還付保留通知",
+    "eitc": "法律（PATH法）により、IRSは2月中旬以前にEITC/ACTC還付を発行できません。",
+    "eitcRelease": "予定リリース：2025年2月27日以降"
+  },
+  "cta": {
+    "checkIRS": "IRS還付状況を確認",
+    "checkState": "{state}の還付状況を確認",
+    "irsWMR": "IRSのWhere's My Refund",
+    "trackYours": "還付を追跡する"
+  },
+  "estimator": {
+    "title": "2025年税金還付計算機",
+    "subtitle": "連邦税還付額を見積もる",
+    "filingStatus": "申告状況",
+    "income": "総収入（$）",
+    "withholding": "連邦税源泉徴収額（$）",
+    "deductions": "控除",
+    "standardDeduction": "標準控除",
+    "itemized": "項目別控除",
+    "itemizedAmount": "項目別控除額（$）",
+    "estimate": "還付額を見積もる",
+    "result": "推定還付額",
+    "taxOwed": "推定納税額",
+    "taxableIncome": "課税所得",
+    "oweTax": "納税額",
+    "disclaimer": "これは推定値です。実際の還付額は異なる場合があります。",
+    "filingStatusOptions": {
+      "single": "独身",
+      "married_filing_jointly": "夫婦合算申告",
+      "married_filing_separately": "夫婦別々申告",
+      "head_of_household": "世帯主"
+    }
+  },
+  "states": {
+    "title": "2025年州別税金還付スケジュール",
+    "subtitle": "全50州の処理時間",
+    "processingEfile": "電子申告処理時間",
+    "processingPaper": "紙申告処理時間",
+    "checkStatus": "還付状況を確認",
+    "filingDeadline": "2025年申告期限",
+    "noStateTax": "州所得税なし",
+    "avgDays": "平均日数",
+    "ranked": "還付速度別州ランキング",
+    "fastest": "最速",
+    "slowest": "最遅"
+  },
+  "faq": {
+    "title": "よくある質問",
+    "subtitle": "一般的な税金還付の質問への回答"
+  },
+  "footer": {
+    "visitorToday": "本日の訪問者",
+    "visitorTotal": "総訪問者",
+    "disclaimer": "このサイトはIRS公開データに基づく推定値を提供します。実際の処理時間は異なる場合があります。",
+    "lastUpdated": "最終更新",
+    "rights": "全著作権所有",
+    "irsLink": "IRS.gov",
+    "irsDisclaimer": "公式情報は以下をご覧ください"
+  },
+  "tracking": {
+    "title": "IRS還付の追跡方法",
+    "step1": "電子的に連邦税申告書を提出",
+    "step2": "電子申告後24時間待機（紙は4週間）",
+    "step3": "irs.gov/refundsのWhere's My Refundツールを訪問",
+    "step4": "SSN、申告状況、正確な還付額を入力",
+    "step5": "還付状況を確認 — 1日1回更新"
+  },
+  "progress": {
+    "filed": "申告提出済み",
+    "accepted": "申告受理済み",
+    "processed": "申告処理済み",
+    "sent": "還付送付済み",
+    "deposited": "入金済み"
+  },
+  "deadline": {
+    "title": "2025年税金申告期限",
+    "countdown": "4月15日の期限まで残り日数",
+    "passed": "申告期限が過ぎました。延長申請または遅延申告を行ってください。",
+    "extension": "延長期限：2025年10月15日"
+  }
+}

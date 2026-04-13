@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "首页",
+    "states": "各州退税",
+    "estimator": "退税计算器",
+    "federal": "联邦指南",
+    "eitc": "EITC日期",
+    "track": "追踪退税",
+    "faq": "常见问题"
+  },
+  "meta": {
+    "homeTitle": "2025年IRS税务退款时间表 — 我的退款什么时候到？ | RefundTimeline",
+    "homeDesc": "查看2025年IRS税务退款时间表。了解联邦和州退款的预计到达日期。",
+    "statesTitle": "2025年各州税务退款处理时间 | RefundTimeline",
+    "statesDesc": "比较全美50个州的税务退款处理时间。",
+    "estimatorTitle": "2025年税务退款计算器 | RefundTimeline",
+    "estimatorDesc": "估算您的2025年联邦税务退款金额。",
+    "faqTitle": "税务退款常见问题 2025 | RefundTimeline",
+    "faqDesc": "解答最常见的税务退款问题。"
+  },
+  "hero": {
+    "title": "我的税款退款什么时候到？",
+    "subtitle": "2025年IRS和州税退款时间表",
+    "filingDatePrompt": "输入申报日期以查看预计退款日期：",
+    "checkStatus": "查看IRS退款状态",
+    "lastUpdated": "最后更新"
+  },
+  "schedule": {
+    "title": "2025年IRS退款时间表",
+    "subtitle": "基于IRS 2024税年退款处理准则",
+    "filingDateRange": "申报日期范围",
+    "directDeposit": "电子申报＋直接存款",
+    "paperCheck": "电子申报＋纸质支票",
+    "paperReturn": "纸质申报＋直接存款",
+    "yourRow": "您的行",
+    "filingStart": "IRS开始接受申报",
+    "deadline": "申报截止日期"
+  },
+  "notice": {
+    "eitcTitle": "EITC/ACTC退款保留通知",
+    "eitc": "根据法律（PATH法案），IRS在2月中旬之前不能发放EITC或ACTC退款。",
+    "eitcRelease": "预计发放：2025年2月27日或之后"
+  },
+  "cta": {
+    "checkIRS": "查看IRS退款状态",
+    "checkState": "查看{state}退款状态",
+    "irsWMR": "IRS在哪里查看我的退款",
+    "trackYours": "追踪您的退款"
+  },
+  "estimator": {
+    "title": "2025年税务退款计算器",
+    "subtitle": "估算联邦税退款金额",
+    "filingStatus": "申报状态",
+    "income": "总收入（$）",
+    "withholding": "联邦税预扣（$）",
+    "deductions": "扣除",
+    "standardDeduction": "标准扣除",
+    "itemized": "逐项扣除",
+    "itemizedAmount": "逐项扣除金额（$）",
+    "estimate": "估算我的退款",
+    "result": "预计退款额",
+    "taxOwed": "预计应缴税款",
+    "taxableIncome": "应税收入",
+    "oweTax": "应缴金额",
+    "disclaimer": "这只是估算。实际退款可能因抵税额、扣除和IRS处理而有所不同。",
+    "filingStatusOptions": {
+      "single": "单身",
+      "married_filing_jointly": "已婚联合申报",
+      "married_filing_separately": "已婚分开申报",
+      "head_of_household": "户主"
+    }
+  },
+  "states": {
+    "title": "2025年各州税务退款时间表",
+    "subtitle": "全美50州处理时间",
+    "processingEfile": "电子申报处理时间",
+    "processingPaper": "纸质申报处理时间",
+    "checkStatus": "查看退款状态",
+    "filingDeadline": "2025年申报截止日期",
+    "noStateTax": "无州所得税",
+    "avgDays": "平均天数",
+    "ranked": "按退款速度排名的各州",
+    "fastest": "最快",
+    "slowest": "最慢"
+  },
+  "faq": {
+    "title": "常见问题",
+    "subtitle": "常见税务退款问题解答"
+  },
+  "footer": {
+    "visitorToday": "今日访客",
+    "visitorTotal": "总访客",
+    "disclaimer": "本网站根据IRS公开数据提供估算。实际处理时间可能有所不同。",
+    "lastUpdated": "最后更新",
+    "rights": "版权所有",
+    "irsLink": "IRS.gov",
+    "irsDisclaimer": "有关官方信息，请访问"
+  },
+  "tracking": {
+    "title": "如何追踪IRS退款",
+    "step1": "以电子方式提交联邦税申报表",
+    "step2": "电子申报后等待24小时（纸质等4周）",
+    "step3": "访问irs.gov/refunds的IRS退款查询工具",
+    "step4": "输入您的SSN、申报状态和确切退款金额",
+    "step5": "查看退款状态 — 每天更新一次"
+  },
+  "progress": {
+    "filed": "已提交申报",
+    "accepted": "申报已受理",
+    "processed": "申报已处理",
+    "sent": "退款已发送",
+    "deposited": "已存入账户"
+  },
+  "deadline": {
+    "title": "2025年税务申报截止日期",
+    "countdown": "距4月15日截止还有天数",
+    "passed": "申报截止日期已过。请申请延期或补报。",
+    "extension": "延期截止日期：2025年10月15日"
+  }
+}
