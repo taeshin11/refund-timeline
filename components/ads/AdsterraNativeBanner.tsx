@@ -1,9 +1,15 @@
+'use client';
+import { useEffect, useRef } from 'react';
+
 export function AdsterraNativeBanner() {
-  return (
-    <div id="adsterra-native" className="my-6">
-      <div className="border-2 border-dashed border-green-200 rounded-xl p-6 text-center text-green-300 text-sm bg-green-50">
-        [Adsterra Native Banner — Add code when key received]
-      </div>
-    </div>
-  );
+  const ref = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    if (!ref.current || ref.current.dataset.loaded) return;
+    ref.current.dataset.loaded = '1';
+    const s = document.createElement('script');
+    s.async = true; s.setAttribute('data-cfasync', 'false');
+    s.src = 'https://pl29147404.profitablecpmratenetwork.com/02b53504adddb100292d84913e06c5cf/invoke.js';
+    ref.current.appendChild(s);
+  }, []);
+  return <div ref={ref} id="container-02b53504adddb100292d84913e06c5cf" style={{ margin: '1.5rem 0', minHeight: '90px' }} />;
 }

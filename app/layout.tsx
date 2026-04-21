@@ -8,6 +8,9 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
+  verification: {
+    google: "WddgcbVJsL2BGHNAje5m6DK56IcR0Mw5UOqozI2Xtrc",
+  },
   title: "RefundTimeline — Tax Refund Dates and Schedule 2025",
   description: "Federal and state tax refund dates and schedule for 2025. When will your IRS refund arrive?",
 };

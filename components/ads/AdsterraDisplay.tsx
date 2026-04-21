@@ -1,9 +1,17 @@
+'use client';
+import { useEffect, useRef } from 'react';
+
 export function AdsterraDisplay() {
-  return (
-    <div id="adsterra-display" className="my-8 flex justify-center">
-      <div className="border-2 border-dashed border-gray-200 rounded-lg p-4 text-center text-gray-300 w-full max-w-3xl text-sm">
-        [Adsterra Display — 728×90 / 320×50 mobile — Add code when key received]
-      </div>
-    </div>
-  );
+  const ref = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    if (!ref.current || ref.current.dataset.loaded) return;
+    ref.current.dataset.loaded = '1';
+    const opt = document.createElement('script');
+    opt.textContent = `atOptions = { 'key': '28cd941e00bf25b93a9f3bd9dedf6453', 'format': 'iframe', 'height': 90, 'width': 728, 'params': {} };`;
+    ref.current.appendChild(opt);
+    const invoke = document.createElement('script');
+    invoke.src = 'https://www.highperformanceformat.com/28cd941e00bf25b93a9f3bd9dedf6453/invoke.js';
+    ref.current.appendChild(invoke);
+  }, []);
+  return <div ref={ref} style={{ textAlign: 'center', overflow: 'hidden', margin: '1rem auto' }} />;
 }

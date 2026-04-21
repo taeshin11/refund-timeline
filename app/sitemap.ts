@@ -10,7 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const states = getAllStates();
   const faqs = getAllFAQs();
 
-  const staticRoutes = ['', '/states', '/estimator', '/federal', '/eitc', '/track', '/faq'];
+  const staticRoutes = ['', '/states', '/estimator', '/federal', '/eitc', '/track', '/faq', '/about', '/how-to-use', '/privacy', '/terms'];
 
   const staticPages: MetadataRoute.Sitemap = locales.flatMap((locale) =>
     staticRoutes.map((route) => ({

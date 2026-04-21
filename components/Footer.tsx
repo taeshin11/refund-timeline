@@ -21,7 +21,7 @@ export function Footer({ locale }: FooterProps) {
   return (
     <footer className="bg-green-900 text-green-100 mt-auto">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-5 gap-8">
           {/* Brand */}
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center gap-2 mb-3">
@@ -49,6 +49,17 @@ export function Footer({ locale }: FooterProps) {
               <li><Link href={`/${locale}/eitc`} className="hover:text-white transition-colors">EITC Dates</Link></li>
               <li><Link href={`/${locale}/track`} className="hover:text-white transition-colors">Track Refund</Link></li>
               <li><Link href={`/${locale}/faq`} className="hover:text-white transition-colors">FAQ</Link></li>
+            </ul>
+          </div>
+
+          {/* Company */}
+          <div>
+            <h3 className="font-semibold text-white mb-3 text-sm">Company</h3>
+            <ul className="space-y-2 text-sm text-green-300">
+              <li><Link href={`/${locale}/about`} className="hover:text-white transition-colors">About</Link></li>
+              <li><Link href={`/${locale}/how-to-use`} className="hover:text-white transition-colors">How to Use</Link></li>
+              <li><Link href={`/${locale}/privacy`} className="hover:text-white transition-colors">Privacy Policy</Link></li>
+              <li><Link href={`/${locale}/terms`} className="hover:text-white transition-colors">Terms of Use</Link></li>
             </ul>
           </div>
 
